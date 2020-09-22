@@ -6,8 +6,11 @@ webhook_url:
 sections:
 - type: document
   path: src/pages
-  label: Index
+  label: blog
   match: "**/*"
+- type: document
+  path: src/pages
+  label: Index
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
