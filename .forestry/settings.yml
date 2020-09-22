@@ -4,12 +4,12 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: sidebar
 - type: document
   path: src/pages
   label: index
   match: "**/*"
-- type: heading
-  label: sidebar
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
