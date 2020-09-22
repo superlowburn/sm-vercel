@@ -8,7 +8,7 @@ sections:
   path: src/content
   label: blog posts
   create: all
-  match: "**/*"
+  match: "*"
 - type: heading
   label: adsfasdf
 upload_dir: src/images
