@@ -9,7 +9,7 @@ sections:
 - type: document
   path: src/pages
   label: Index
-  read_only: true
+  read_only: false
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
