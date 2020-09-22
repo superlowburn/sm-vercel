@@ -3,12 +3,7 @@ new_page_extension: md
 auto_deploy: false
 admin_path: ''
 webhook_url: 
-sections:
-- type: heading
-  label: SideBARRRR
-- type: document
-  path: src/pages
-  label: index
+sections: 
 upload_dir: src/images
 public_path: "/images"
 front_matter_path: ''
