@@ -5,7 +5,7 @@ admin_path: ".forestry/"
 webhook_url: 
 sections:
 - type: directory
-  path: src
+  path: src/content
   label: blog posts
   create: all
   match: "**/*"
