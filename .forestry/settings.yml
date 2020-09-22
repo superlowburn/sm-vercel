@@ -4,6 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: src/pages
+  label: src pages
+  create: all
+  match: "**/*"
 - type: heading
   label: adsfasdf
 upload_dir: src/images
