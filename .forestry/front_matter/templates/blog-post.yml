@@ -15,4 +15,5 @@ fields:
   name: path
   label: path
 pages:
+- src/content/asdfasdf-copy.md
 - src/content/asdfasdff.md
